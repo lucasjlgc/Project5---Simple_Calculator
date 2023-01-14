@@ -9,4 +9,4 @@ Biblioteca Utilizada:
 
 Imagem da interface Gráfica do Software.
 
-![Octocientist](https://user-images.githubusercontent.com/85655746/123452648-fe2b1d00-d5b4-11eb-96a7-8eeb4f9a2f6c.png)
+![calculadora](https://github.com/lucasjlgc/Project5---Simple_Calculator/blob/master/calculadora.png)
